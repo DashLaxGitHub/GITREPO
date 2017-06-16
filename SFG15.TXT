@@ -1,0 +1,9 @@
+This is test file for SFG Test.
+IBM® Sterling File Gateway consolidates disparate centers of file transfer activity and facilitates the security-rich exchange of file-based data over the Internet. It helps companies avoid the risk and operational issues that can result from using loosely controlled file-transfer servers.
+
+Sterling File Gateway features include:
+
+    Improved management of file transfer activity with increased visibility and self-service features for better decision making and faster response times.
+    Automated file transfer processes to optimize efficiency.
+    Fast acclimation of new file transfer partners for easier management.
+    Security-rich file transfers with data encryption and event logging.
